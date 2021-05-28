@@ -462,7 +462,7 @@ g.setStroke(new BasicStroke(5.0f));
     public void Font(Graphics g){
         g.setColor(Color.BLACK);
         g.setFont(new Font("Serif",Font.ITALIC,50));
-    g.drawString("Pincess Peach", 50, 50);
+    g.drawString("Princess Peach", 50, 50);
     
     
     
